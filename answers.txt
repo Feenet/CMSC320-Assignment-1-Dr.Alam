@@ -5,3 +5,8 @@ Answer: To keep track of our changes and versions of our code.
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: It can be helpful in the healthcare industry to make sence of data related to diseases.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer:Merging preserves the entire history of you repository and rebasing moves your feature branch onto the tip of main.
+
