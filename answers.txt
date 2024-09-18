@@ -10,3 +10,6 @@ Q3: What is the difference between merging and rebasing?
 
 Answer:Merging preserves the entire history of you repository and rebasing moves your feature branch onto the tip of main.
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my data visualization skill.
